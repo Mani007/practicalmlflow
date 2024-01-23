@@ -3,7 +3,7 @@ import mlflow
 if __name__=="__main__":
 
 # we use with in order to not write the mlflow.run_end() function
-    with mlflow.start_run(run_name="mlflow_runs") as run:
+    with mlflow.start_run(run_name="mlflow_runs") as run:  # here run name is provided in start_run() function
 
         # Your machine learning code goes here
         # logging parameters or hyperparameters
