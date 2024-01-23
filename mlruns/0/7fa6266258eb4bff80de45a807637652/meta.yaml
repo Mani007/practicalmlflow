@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Mohnish/Documents/OPScraft/mlflowpractical/mlruns/0/7fa6266258eb4bff80de45a807637652/artifacts
+end_time: 1706051655920
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7fa6266258eb4bff80de45a807637652
+run_name: selective-elk-814
+run_uuid: 7fa6266258eb4bff80de45a807637652
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1706051655854
+status: 3
+tags: []
+user_id: Mohnish
